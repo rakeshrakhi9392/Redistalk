@@ -1,0 +1,13 @@
+[ req ]
+default_bits        = 2048
+default_md          = sha256
+prompt              = no
+distinguished_name  = dn
+
+[ dn ]
+C  = IN
+ST = Telangana
+L  = Hyderabad
+O  = Redistalk
+OU = Dev
+CN = redistalk.local

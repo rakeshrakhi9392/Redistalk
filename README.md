@@ -1,4 +1,4 @@
-💬 RedisTalk
+##💬 RedisTalk
 A highly scalable and efficient real-time chat application built using the MERN stack, with Kafka and Redis to ensure seamless performance under heavy loads.
 
 🚀 Features

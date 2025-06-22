@@ -57,7 +57,7 @@ Redis improves real-time performance and lowers database load:
 ## 📂 Project Structure
 
 ```
-Scalable-Chat-App-main/
+REDISTALK/
 ├── client/               # React frontend
 │   ├── public/
 │   ├── src/
